@@ -14,6 +14,7 @@ namespace Test000
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello");
             int a = 0;
+            Console.WriteLine(a);
         }
     }
 }
